@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Head Journal",
+        "headquarters": "San Francisco",
+        "industry": "Tech"
+    },
+    {
+        "id": 2,
+        "name": "Au Revoir Health",
+        "headquarters": "Paris",
+        "industry": "Health"
+    },
+    {
+        "id": 3,
+        "name": "Solomon Sisters Bank",
+        "headquarters": "London",
+        "industry": "Finance"
+    }
+]

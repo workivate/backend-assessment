@@ -1,16 +1,14 @@
 # LifeWorks Backend Developer Assessment
 
-This assessment is designed to be simple and contains [three tasks](#tasks) which involve transforming user and company data. Its primary aim is to assess how you approach and solve software development problems holistically. 
+This assessment is designed to be simple and its primary aim is to assess how you approach and solve software development problems holistically. It contains only [three tasks](#tasks) which involve transforming user and company data.
 
-Please be aware this isn't a test, you will not be accepted or rejected based on your answers in this assessment alone. The assessment just aims to highlight how you approach and solve software development tasks. 
-
-All candidates asked to complete the assessment will be invited to a technical interview where the assessment will be discussed along with your general technical knowledge and experience.
+Please be aware this isn't a test, you will not be accepted or rejected based on your answers in this assessment alone. All candidates asked to complete the assessment will be invited to a technical interview where the assessment will be discussed along with your general technical knowledge and experience.
 
 ## How to Complete the Test
 
 You will be advised by your recruitment contact which software language to complete this assessment in, but it will be either PHP, Python or Node JS.
 
-Please clone this repository, complete the tasks defined below and push the finished code to a private GitHub repository. Once this is done inform your relevant recruitment contact and we will advise on which GitHub users need access to review the assessment.
+Please clone this repository, complete the [tasks defined below](#tasks) and push the finished code to a private GitHub repository. Once this is done inform your relevant recruitment contact and we will advise on which GitHub users need access to review the assessment.
 
 Please be aware the assessment should be completed 24 hours before your scheduled technical interview. If you have any issues with this please inform your relevant recruitment contact. 
 
@@ -34,7 +32,7 @@ To complete this assessment well you should consider carefully what steps you'd 
 
 The three tasks are based around user and company JSON data stored in the `./assets/user.json` and `./assets/company.json` files. Please review each collection of data before working on the tasks.
 
-Be aware we do not care how you output the data, that is entirely up to you.
+Be aware we do not care how you output the results of the data transformations, that is entirely up to you.
 
 ### Task 1
 

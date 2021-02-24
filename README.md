@@ -2,7 +2,7 @@
 
 This assessment is designed to be simple and its primary aim is to assess how you approach and solve software development problems holistically. It contains only [three tasks](#tasks) which involve transforming user and company data.
 
-Please be aware this isn't a test, you will not be accepted or rejected based on your answers in this assessment alone. All candidates asked to complete the assessment will be invited to a technical interview where the assessment will be discussed along with your general technical knowledge and experience.
+Please be aware this isn't a test, you will not be accepted or rejected based on your answers in this assessment alone. All candidates asked to complete the assessment will be invited to a technical interview where the assessment will be discussed along with their general technical knowledge and experience.
 
 ## How to Complete the Test
 

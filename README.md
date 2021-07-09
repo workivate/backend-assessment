@@ -9,7 +9,7 @@ but your answers may give us some idea about your code culture and technical cap
 All candidates asked to complete the assessment will be invited to a technical interview where the assessment 
 will be discussed along with their general technical knowledge and experience.
 
-## How to Complete the Test
+## How to Complete the Assessment
 
 You will be advised by your recruitment contact which software language to complete this assessment in, 
 but it will be either PHP, Python or Node JS.
